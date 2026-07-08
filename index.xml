@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+			<lastBuildDate>Mon, 06 Jul 2026 22:41:10 +0530</lastBuildDate>
 		
 			<atom:link href="https://brian1120kim.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Behind the Black Box: Why Transparency and Explainability Are Essential for Ethical AI</title>
+				<link>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</link>
+				<pubDate>Mon, 06 Jul 2026 22:41:10 +0530</pubDate>
+				<guid>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</guid>
+				<description>&lt;h2 id=&#34;transparency-and-explainability-in-artificial-intelligence&#34;&gt;Transparency and Explainability in Artificial Intelligence&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) is transforming the way organizations make decisions. Today, AI systems help determine who receives a loan, which candidates are selected for job interviews, what medical treatments patients receive, and even how online information is prioritized. While these technologies offer remarkable benefits in terms of speed, efficiency, and predictive accuracy, they also raise significant ethical concerns. One of the most important concerns is transparency—the ability to understand how AI systems work and why they produce specific outcomes.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>“Anonymous… or Not?”: The Hidden Ethics of Data Collection in Course Surveys</title>
+				<link>https://brian1120kim.github.io/blogs/anonymous-or-not-the-hidden-ethics-of-data-collection-in-course-surveys/</link>
+				<pubDate>Mon, 29 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>https://brian1120kim.github.io/blogs/anonymous-or-not-the-hidden-ethics-of-data-collection-in-course-surveys/</guid>
+				<description>&lt;h2 id=&#34;anonymous-or-not&#34;&gt;Anonymous&amp;hellip; or Not?&lt;/h2&gt;&#xA;&lt;P&gt;In today’s data-driven world, organizations rely heavily on feedback mechanisms such as surveys to evaluate performance and guide improvements. On the surface, course evaluation surveys appear harmless—simple tools used to gather participant insights to enhance learning experiences. However, when we examine these systems through a data science ethics lens, deeper concerns emerge around privacy, transparency, fairness, and accountability.&lt;/P&gt;&#xD;&#xA;&lt;p&gt;This blog post explores a course evaluation survey that claims anonymity despite requiring user login credentials. By analyzing its design and intended use, we uncover ethical dilemmas and propose actionable recommendations grounded in core ethical principles such as informed consent, anonymity vs. confidentiality, bias, data governance, and professional responsibility.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Render Math With Mathjax</title>
 				<link>https://brian1120kim.github.io/blogs/math/</link>
@@ -28,25 +42,11 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Markdown Syntax</title>
-				<link>https://brian1120kim.github.io/blogs/markdown-syntax/</link>
-				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-				<guid>https://brian1120kim.github.io/blogs/markdown-syntax/</guid>
-				<description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>Emoji Support</title>
 				<link>https://brian1120kim.github.io/blogs/emoji-support/</link>
 				<pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
 				<guid>https://brian1120kim.github.io/blogs/emoji-support/</guid>
 				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;emoji-support&#34;&gt;Emoji Support&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Placeholder Text</title>
-				<link>https://brian1120kim.github.io/blogs/placeholder-text/</link>
-				<pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-				<guid>https://brian1120kim.github.io/blogs/placeholder-text/</guid>
-				<description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Rich Content</title>

@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</loc>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
+  </url><url>
     <loc>https://brian1120kim.github.io/blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
   </url><url>
     <loc>https://brian1120kim.github.io/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -24,19 +27,16 @@
                 />
   </url><url>
     <loc>https://brian1120kim.github.io/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://brian1120kim.github.io/tags/markdown-syntax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>https://brian1120kim.github.io/tags/placeholder-text/</loc>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://brian1120kim.github.io/tags/mathjax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>https://brian1120kim.github.io/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>https://brian1120kim.github.io/tags/sample/</loc>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
   </url><url>
     <loc>https://brian1120kim.github.io/tags/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <lastmod>2026-07-06T22:41:10+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -53,26 +53,26 @@
                 href="https://brian1120kim.github.io/fr/tags/"
                 />
   </url><url>
+    <loc>https://brian1120kim.github.io/blogs/anonymous-or-not-the-hidden-ethics-of-data-collection-in-course-surveys/</loc>
+    <lastmod>2026-06-29T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>https://brian1120kim.github.io/tags/markdown-syntax/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://brian1120kim.github.io/tags/mathjax/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://brian1120kim.github.io/blogs/math/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+  </url><url>
     <loc>https://brian1120kim.github.io/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
-    <loc>https://brian1120kim.github.io/blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>https://brian1120kim.github.io/tags/sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
     <loc>https://brian1120kim.github.io/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
     <loc>https://brian1120kim.github.io/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>https://brian1120kim.github.io/blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>https://brian1120kim.github.io/tags/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
     <loc>https://brian1120kim.github.io/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
