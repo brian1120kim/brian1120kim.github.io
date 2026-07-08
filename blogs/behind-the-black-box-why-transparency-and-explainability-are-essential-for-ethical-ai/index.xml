@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Behind the Black Box: Why Transparency and Explainability Are Essential for Ethical AI on Brian Kim Profile</title>
-		<link>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</link>
+		<link>http://localhost:1313/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</link>
 		<description>Recent content in Behind the Black Box: Why Transparency and Explainability Are Essential for Ethical AI on Brian Kim Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
