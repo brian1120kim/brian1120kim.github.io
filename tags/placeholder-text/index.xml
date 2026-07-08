@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Placeholder Text on Brian Kim Profile</title>
-		<link>https://brian1120kim.github.io/tags/placeholder-text/</link>
+		<link>http://localhost:1313/tags/placeholder-text/</link>
 		<description>Recent content in Placeholder Text on Brian Kim Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 06 Jul 2026 22:41:10 +0530</lastBuildDate>
 		
-			<atom:link href="https://brian1120kim.github.io/tags/placeholder-text/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/placeholder-text/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Behind the Black Box: Why Transparency and Explainability Are Essential for Ethical AI</title>
-				<link>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</link>
+				<link>http://localhost:1313/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</link>
 				<pubDate>Mon, 06 Jul 2026 22:41:10 +0530</pubDate>
-				<guid>https://brian1120kim.github.io/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</guid>
+				<guid>http://localhost:1313/blogs/behind-the-black-box-why-transparency-and-explainability-are-essential-for-ethical-ai/</guid>
 				<description>&lt;h2 id=&#34;transparency-and-explainability-in-artificial-intelligence&#34;&gt;Transparency and Explainability in Artificial Intelligence&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) is transforming the way organizations make decisions. Today, AI systems help determine who receives a loan, which candidates are selected for job interviews, what medical treatments patients receive, and even how online information is prioritized. While these technologies offer remarkable benefits in terms of speed, efficiency, and predictive accuracy, they also raise significant ethical concerns. One of the most important concerns is transparency—the ability to understand how AI systems work and why they produce specific outcomes.&lt;/p&gt;</description>
 			</item>
 	</channel>
