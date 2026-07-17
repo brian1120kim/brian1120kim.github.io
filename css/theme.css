@@ -1,26 +1,56 @@
-/* light mode */
-.light > *{
+/* LIGHT MODE */
+.light {
+    --background-color: #808080 !important;      /* Gray background */
+    --secondary-background-color: #64ffda1a !important;
+
+    --text-color: #000000 !important;            /* Black text */
+    --text-secondary-color: #000000 !important;
+
+    --text-link-color: #000000 !important;       /* Links */
+    --primary-color: #801922 !important;         /* Brian Kim name, buttons, highlights */
+    --secondary-color: #786868 !important;
+}
+
+/* Main page background */
+.light > * {
     background-color: var(--background-color) !important;
     color: var(--text-color) !important;
 }
-
-.light > #footer-socialNetworks-github-svg-path{
-    fill: none;
+/* Search bar text */
+.light input,
+.light input[type="search"] {
+    color: #000000 !important;
 }
 
-/* dark mode */
+/* Search bar placeholder text */
+.light input::placeholder,
+.light input[type="search"]::placeholder {
+    color: #000000 !important;
+}
+
+/* DARK MODE */
 .dark {
-    --background-color: var(--background-color-dark) !important;
-    --secondary-background-color: var(--secondary-background-color-dark) !important;
-    --text-color: var(--text-color-dark) !important;
-    --text-secondary-color: var(--text-secondary-color-dark) !important;
-    --text-link-color: var(--text-link-color-dark) !important;
-    --primary-color: var(--primary-color-dark);
-    --secondary-color: var(--secondary-color-dark);
+    --background-color: #000000 !important;
+    --secondary-background-color: #111111 !important;
+
+    --text-color: #808080 !important;
+    --text-secondary-color: #ffffff !important;
+
+    --text-link-color: #ffffff !important;
+    --primary-color: #801922 !important;
+    --secondary-color: #786868 !important;
 }
 
-.dark #footer-socialNetworks-github-svg-path{
-    fill: #FFFFFF;
+/* Search bar text */
+.dark input,
+.dark input[type="search"] {
+    color: #ffffff !important;
+}
+
+/* Search bar placeholder text */
+.dark input::placeholder,
+.dark input[type="search"]::placeholder {
+    color: #ffffff !important;
 }
 
 .text-secondary {
