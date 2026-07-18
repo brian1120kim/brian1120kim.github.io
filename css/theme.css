@@ -31,7 +31,7 @@
 /* DARK MODE */
 .dark {
     --background-color: #000000 !important;
-    --secondary-background-color: #111111 !important;
+    --secondary-background-color: #ffffff !important;
 
     --text-color: #ffffff !important;
     --text-secondary-color: #ffffff !important;
